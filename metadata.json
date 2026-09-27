@@ -1,0 +1,5 @@
+{
+  "name": "Breast Cancer Detection ML",
+  "description": "Interactive machine learning application for breast cancer detection and diagnostic risk assessment using a pre-trained clinical classification model.",
+  "prompt": "Breast Cancer Detection using Machine Learning with Streamlit frontend"
+}

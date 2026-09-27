@@ -1,0 +1,9 @@
+{
+  "name": "breast-cancer-detection-ml",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Streamlit frontend connected to pre-trained Breast Cancer Detection ML model",
+  "scripts": {
+    "dev": "streamlit run app.py --server.port 3000 --server.address 0.0.0.0 --server.headless true --server.enableCORS false --server.enableXsrfProtection false --server.enableWebsocketCompression false"
+  }
+}
